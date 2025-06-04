@@ -62,6 +62,7 @@ streamlit run app.py
 
 
 ├── chatbot.py          # Main chatbot script with text & voice support
+
 ├── app.py              # Optional Streamlit web app interface
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
